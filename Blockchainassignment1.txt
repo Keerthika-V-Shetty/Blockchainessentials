@@ -1,0 +1,36 @@
+1. What is your understanding of Blockchain?
+
+Ans: Blockchain is a time-stamped series of immutable records of data that is managed by a cluster of computers not owned by a single entity. Each of these blocks of data is secured and bound to each other using cryptographic principles. It is a type of diary or spreadsheet containing information about transactions. Each transaction generates a hash. Each block refers to the previous block and together make the Blockchain. A Blockchain is effective as it is spread over many computers, each of which have a copy of the Blockchain.
+
+2. What is the core problem blockchain trying to solve?
+
+Ans: 	- Hacking = It makes hacking not all possible.
+ 	- Security Boost = It gives huge security boost.
+	- Verifiability = verifiability is attained through the redistribution of tamper proof blockchain ledger to the validated and authorized nodes of the 			auditing group.
+	- Data Transparency= It offers transparency in the case of its fully auditable and valid ledger of transactions.
+	- Decentralized = It offers every single user an opportunity to become one of the network's many payment processors.    
+
+
+3. What are the few features which blockchain will give you?
+
+Ans: The few features that Blockchain will give are:
+	- Decentralized technology.
+	- Enhanced Security.
+	- Distributed Ledgers.
+	- Immutability.
+	- Faster settlement.
+	- Tamper Detection	
+	- Consensus.
+
+4. What all things does a Block contain?
+
+Ans: A block contains:
+	- Block number.
+	- Trans Record - Any important data you want to store.
+	- Previous Block Key.
+	- Mining Key.
+
+5. How is the verifiability of Blockchain been attained?
+
+Ans: The external verifiability is attained through the redistribution of tamper proof blockchain ledger to the validated and authorized nodes of the auditing group. The tamper proof property of electoral data is achieved using Blockchain technology.
+
